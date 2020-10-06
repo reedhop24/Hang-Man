@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: 'Bangers', cursive;;
+}
+
+.button {
+  background-color: white;
+  font-size: 25px;
+  width: 150px
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
